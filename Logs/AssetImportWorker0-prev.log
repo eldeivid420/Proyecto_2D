@@ -1,0 +1,1457 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.3f1 (8ff31bc5bf5b) revision 9433883'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Enterprise; OS build 18363.1379; Version 1909; 64bit' Language: 'es' Physical Memory: 32728 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Program Files\Unity Hub\2020.2.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/david/Proyecto_2D
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56566
+Successfully changed project path to: D:/david/Proyecto_2D
+D:/david/Proyecto_2D
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 50.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.3f1 (8ff31bc5bf5b)
+[Subsystems] Discovering subsystems at path D:/Program Files/Unity Hub/2020.2.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/david/Proyecto_2D/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1080 (ID=0x1be0)
+    Vendor:   
+    VRAM:     8079 MB
+    Driver:   26.21.14.4614
+Initialize mono
+Mono path[0] = 'D:/Program Files/Unity Hub/2020.2.3f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Program Files/Unity Hub/2020.2.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Program Files/Unity Hub/2020.2.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56428
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/Unity Hub/2020.2.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001830 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 49.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.617 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001255 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 51.21 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.180 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1796 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.3 MB.
+System memory in use after: 84.3 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2237.
+Total: 3.494700 ms (FindLiveObjects: 0.288100 ms CreateObjectMapping: 0.110400 ms MarkObjects: 2.831000 ms  DeleteObjects: 0.263500 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/Moneda.cs
+  artifactKey: Guid(693a863572c999f4481a68830c0524eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Moneda.cs using Guid(693a863572c999f4481a68830c0524eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6998531bab5262fcb36048faa114f092') in 0.029644 seconds
+  Import took 0.033097 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001911 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.039 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1791 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.3 MB.
+System memory in use after: 84.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2240.
+Total: 5.150300 ms (FindLiveObjects: 0.567400 ms CreateObjectMapping: 0.248300 ms MarkObjects: 4.089600 ms  DeleteObjects: 0.242400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001460 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.144 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1791 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.3 MB.
+System memory in use after: 84.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2243.
+Total: 2.345700 ms (FindLiveObjects: 0.237100 ms CreateObjectMapping: 0.147400 ms MarkObjects: 1.829200 ms  DeleteObjects: 0.130700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 307.232898 seconds.
+  path: Assets/Scripts/Moneda.cs
+  artifactKey: Guid(693a863572c999f4481a68830c0524eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Moneda.cs using Guid(693a863572c999f4481a68830c0524eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afdbc0d4333635377d5dc215a4b4795a') in 0.005786 seconds
+  Import took 0.009293 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001534 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.986 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1791 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.3 MB.
+System memory in use after: 84.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2246.
+Total: 2.321600 ms (FindLiveObjects: 0.196200 ms CreateObjectMapping: 0.078100 ms MarkObjects: 1.921100 ms  DeleteObjects: 0.125200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001344 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.394 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1791 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.4 MB.
+System memory in use after: 84.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2249.
+Total: 5.131700 ms (FindLiveObjects: 0.390200 ms CreateObjectMapping: 0.213400 ms MarkObjects: 4.237000 ms  DeleteObjects: 0.288100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001481 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.138 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1791 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.4 MB.
+System memory in use after: 84.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2252.
+Total: 2.417200 ms (FindLiveObjects: 0.203200 ms CreateObjectMapping: 0.088800 ms MarkObjects: 2.002700 ms  DeleteObjects: 0.121500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 296.572579 seconds.
+  path: Assets/Scripts/PruebaPiso.cs
+  artifactKey: Guid(fbf2ad0ea6042374ca9922fad7da0712) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PruebaPiso.cs using Guid(fbf2ad0ea6042374ca9922fad7da0712) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39671f2ad78f4bcce931ba4d3280b1d3') in 0.010236 seconds
+  Import took 0.013883 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001217 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.974 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1791 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.4 MB.
+System memory in use after: 84.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2255.
+Total: 5.384900 ms (FindLiveObjects: 0.405400 ms CreateObjectMapping: 0.201900 ms MarkObjects: 4.475300 ms  DeleteObjects: 0.298900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 83.669947 seconds.
+  path: Assets/Scripts/MoverPersonaje.cs
+  artifactKey: Guid(7f0eb52ced5152d4bb7fa8956e5f4c54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MoverPersonaje.cs using Guid(7f0eb52ced5152d4bb7fa8956e5f4c54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0bdb42057c3e6cbc51efcc7819a0fab') in 0.009163 seconds
+  Import took 0.012399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.042637 seconds.
+  path: Assets/Scripts/MoverPersonaje.cs
+  artifactKey: Guid(7f0eb52ced5152d4bb7fa8956e5f4c54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MoverPersonaje.cs using Guid(7f0eb52ced5152d4bb7fa8956e5f4c54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0bdb42057c3e6cbc51efcc7819a0fab') in 0.004373 seconds
+  Import took 0.007888 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001519 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.121 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.57 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1791 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.4 MB.
+System memory in use after: 84.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2258.
+Total: 2.285500 ms (FindLiveObjects: 0.204100 ms CreateObjectMapping: 0.086800 ms MarkObjects: 1.874500 ms  DeleteObjects: 0.119100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 255.912022 seconds.
+  path: Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_213.asset
+  artifactKey: Guid(3f3a1127dc72fb5488b5b6022cc3a433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_213.asset using Guid(3f3a1127dc72fb5488b5b6022cc3a433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f383ac051b585526b6b1681130fad096') in 0.104144 seconds
+  Import took 0.109279 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_241.asset
+  artifactKey: Guid(2deef1a725e2eba40913960a226e51b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_241.asset using Guid(2deef1a725e2eba40913960a226e51b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bbcf5f8ec65c11e7f84150dcdef7d50') in 0.019854 seconds
+  Import took 0.023571 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_246.asset
+  artifactKey: Guid(515257e182eeffb48a7896ad1bdcc87b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_246.asset using Guid(515257e182eeffb48a7896ad1bdcc87b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af17bf8c6b2a5c22790396c981696caa') in 0.019804 seconds
+  Import took 0.024106 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_252.asset
+  artifactKey: Guid(34fcad3671abc4b45ada43cd9b59c2a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_252.asset using Guid(34fcad3671abc4b45ada43cd9b59c2a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f914cab34c08c6b3f468c8d054d9001') in 0.022612 seconds
+  Import took 0.027189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000402 seconds.
+  path: Assets/DatosTiles/SpikeTile_Down.asset
+  artifactKey: Guid(920bbdfa1de71b544af4fab022b45656) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DatosTiles/SpikeTile_Down.asset using Guid(920bbdfa1de71b544af4fab022b45656) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22ecc603bea0ac37525f5d294a054e69') in 0.022375 seconds
+  Import took 0.026943 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_214.asset
+  artifactKey: Guid(a728c2f3d749473428ea63020d83ac60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_214.asset using Guid(a728c2f3d749473428ea63020d83ac60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f5522b6fdbcd87fccae178ba48d821a') in 0.019892 seconds
+  Import took 0.023747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_226.asset
+  artifactKey: Guid(6487992054c250e44b0b534c187bbb4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_226.asset using Guid(6487992054c250e44b0b534c187bbb4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56881753ed628e432e548239af484dbf') in 0.022965 seconds
+  Import took 0.028088 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_237.asset
+  artifactKey: Guid(e5cf8d59e01522e4d97497c5f17ac768) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_237.asset using Guid(e5cf8d59e01522e4d97497c5f17ac768) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '660b5c7a9cd50ec3cc78957401cb0b89') in 0.021273 seconds
+  Import took 0.025949 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_250.asset
+  artifactKey: Guid(ed3aed6d834b58c45b0218d36ddebcae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_250.asset using Guid(ed3aed6d834b58c45b0218d36ddebcae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '992e5ce8290190f4970e348d9cf8f590') in 0.019401 seconds
+  Import took 0.023001 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_242.asset
+  artifactKey: Guid(07bd86b3446d01a4584775b29eba6ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_242.asset using Guid(07bd86b3446d01a4584775b29eba6ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bf9a0b19acc6008c70ec0d611a4ca98') in 0.018239 seconds
+  Import took 0.022111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_233.asset
+  artifactKey: Guid(c1900ae2956fb5544ac43f221db621e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_233.asset using Guid(c1900ae2956fb5544ac43f221db621e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c3df119828751f7a729dea0b07782d9') in 0.020101 seconds
+  Import took 0.023733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_245.asset
+  artifactKey: Guid(bdf03259d42cbfa4ea543c56536c9f53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_245.asset using Guid(bdf03259d42cbfa4ea543c56536c9f53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f33fdae154bbe453e165c562247a4a6') in 0.020396 seconds
+  Import took 0.024212 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_231.asset
+  artifactKey: Guid(5e6aed206e836724986a64cc220ac269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_231.asset using Guid(5e6aed206e836724986a64cc220ac269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a61e1b9fe3fa3351025a4d4bf51bfc7a') in 0.022054 seconds
+  Import took 0.025680 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_247.asset
+  artifactKey: Guid(016ddef48378af244bf26c3a91fa4e0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_247.asset using Guid(016ddef48378af244bf26c3a91fa4e0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bbfe0c3e2cd4ddf87a409c21407bd24') in 0.021190 seconds
+  Import took 0.024947 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_251.asset
+  artifactKey: Guid(95b3b115259d74c4c80758d2e3463eb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_251.asset using Guid(95b3b115259d74c4c80758d2e3463eb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81f8b4fc9570c26d031b02e820653421') in 0.018831 seconds
+  Import took 0.022345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_244.asset
+  artifactKey: Guid(f4f9e2d44a0077d44a1622c523756310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_244.asset using Guid(f4f9e2d44a0077d44a1622c523756310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f3f5cfd7d0b9db54a99b1684d77cb1a') in 0.021681 seconds
+  Import took 0.026135 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_219.asset
+  artifactKey: Guid(19862752c50a59a4987d73368c666374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_219.asset using Guid(19862752c50a59a4987d73368c666374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '094ebaa8d6a916bd34383cb935361ec2') in 0.019993 seconds
+  Import took 0.023653 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_238.asset
+  artifactKey: Guid(c95969b8d9b7de34eae2009a0de5b531) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_238.asset using Guid(c95969b8d9b7de34eae2009a0de5b531) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '316051e6ee9eb69f5e3c75cab6f52536') in 0.025437 seconds
+  Import took 0.029458 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_216.asset
+  artifactKey: Guid(8c765fa660d79874a98298c8953f3288) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_216.asset using Guid(8c765fa660d79874a98298c8953f3288) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd64817e19762bb03e86714c51f072c0') in 0.019372 seconds
+  Import took 0.022936 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_218.asset
+  artifactKey: Guid(6b165e9e8e3ff354da4e4201a7b374a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_218.asset using Guid(6b165e9e8e3ff354da4e4201a7b374a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0ab12676b2584e434a55c62a92f3340') in 0.020521 seconds
+  Import took 0.024490 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_240.asset
+  artifactKey: Guid(2ca24945829ac8d479c6a53a4f59750f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_240.asset using Guid(2ca24945829ac8d479c6a53a4f59750f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b332a504339f6f0a5b73da17450dca74') in 0.021786 seconds
+  Import took 0.026067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_236.asset
+  artifactKey: Guid(ebadb3702581221458a284ad27520946) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_236.asset using Guid(ebadb3702581221458a284ad27520946) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc86e8114ec5ef9529e5c16f202df708') in 0.020105 seconds
+  Import took 0.024460 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_228.asset
+  artifactKey: Guid(722a5395b1a268341be547e40d09cff4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_228.asset using Guid(722a5395b1a268341be547e40d09cff4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99498bd4173039616ecb764799be33f7') in 0.024748 seconds
+  Import took 0.028787 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_230.asset
+  artifactKey: Guid(b32e62017ac90f44c98ae7134f59f984) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_230.asset using Guid(b32e62017ac90f44c98ae7134f59f984) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dba2df331b8529b2ef6fcab40cbc2f81') in 0.020656 seconds
+  Import took 0.024674 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_215.asset
+  artifactKey: Guid(6738aea32b2e0d045ac98996177a69bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_215.asset using Guid(6738aea32b2e0d045ac98996177a69bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47271635f698d7ad884bb6165c5f18bf') in 0.020517 seconds
+  Import took 0.025279 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_221.asset
+  artifactKey: Guid(185d636d3d0b0b149b52b35f82f8bee4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_221.asset using Guid(185d636d3d0b0b149b52b35f82f8bee4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '151f0d581cd282b88dd74bea5db02b2f') in 0.020824 seconds
+  Import took 0.025563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_232.asset
+  artifactKey: Guid(251eaaf169584a44ca6d5d019b774187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_232.asset using Guid(251eaaf169584a44ca6d5d019b774187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3374f081106a2dbd370f6bcb155436aa') in 0.019058 seconds
+  Import took 0.022702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_234.asset
+  artifactKey: Guid(aa4cd9539bfd65f41baa860d98ef24e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_234.asset using Guid(aa4cd9539bfd65f41baa860d98ef24e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c93c1d2fcc515e63be66415e633b44b') in 0.020171 seconds
+  Import took 0.023814 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/DatosTiles/GroundTile.asset
+  artifactKey: Guid(e368b773cef62964bab5f1f0291fa6f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DatosTiles/GroundTile.asset using Guid(e368b773cef62964bab5f1f0291fa6f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dff4fe902427c951691a3174fafa9a35') in 0.021478 seconds
+  Import took 0.025579 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_253.asset
+  artifactKey: Guid(bd35832de07f9fb478a4abae7310b5b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_253.asset using Guid(bd35832de07f9fb478a4abae7310b5b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '224fa3ccbe503a4260bac2afadffd5ec') in 0.019939 seconds
+  Import took 0.023911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_222.asset
+  artifactKey: Guid(6844691e130c34043957e0c3d8b2ee21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_222.asset using Guid(6844691e130c34043957e0c3d8b2ee21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af90b366d6e0a3b722936f2b4d72b4b6') in 0.019200 seconds
+  Import took 0.022856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_224.asset
+  artifactKey: Guid(e88580dc9a2ce10449b82fbcee6b54e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_224.asset using Guid(e88580dc9a2ce10449b82fbcee6b54e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd20251212c9c7bb58c2d2f6695fce59a') in 0.020495 seconds
+  Import took 0.024091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000361 seconds.
+  path: Assets/DatosTiles/Paleta General.prefab
+  artifactKey: Guid(cfd033b26654f624c8a55eb8fdf1833d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DatosTiles/Paleta General.prefab using Guid(cfd033b26654f624c8a55eb8fdf1833d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '530587ccd2b976cf9acfe46bf12ad2c3') in 0.020795 seconds
+  Import took 0.025065 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_248.asset
+  artifactKey: Guid(633f206e5056a114f8438f990ee8656c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_248.asset using Guid(633f206e5056a114f8438f990ee8656c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee7c79850098b023d8cc650800b9ffe1') in 0.019224 seconds
+  Import took 0.022932 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_217.asset
+  artifactKey: Guid(97bb083b471b26c408f8f82b2f9201f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_217.asset using Guid(97bb083b471b26c408f8f82b2f9201f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0066f23e6efe0998b9c2a612ceebce9') in 0.022337 seconds
+  Import took 0.026862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_223.asset
+  artifactKey: Guid(de5e156c1aa348f4da0d77eb330aa96c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_223.asset using Guid(de5e156c1aa348f4da0d77eb330aa96c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccbb1d9f99454f80f85acc870f6122d4') in 0.017956 seconds
+  Import took 0.021700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_220.asset
+  artifactKey: Guid(36f421083924859449c3847d8f65159d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_220.asset using Guid(36f421083924859449c3847d8f65159d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e6fa4545a8fe06458ae2cedf3a972b6') in 0.018833 seconds
+  Import took 0.022385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_225.asset
+  artifactKey: Guid(337f5b6fe81e6ca458263c4834936d06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_225.asset using Guid(337f5b6fe81e6ca458263c4834936d06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '545430bef4ae92ed35acdcc41a4ef066') in 0.021236 seconds
+  Import took 0.025700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/DatosTiles/Paleta Mario.prefab
+  artifactKey: Guid(0950905b641a955459e055db0359e20e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DatosTiles/Paleta Mario.prefab using Guid(0950905b641a955459e055db0359e20e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef29abfba42515cf13fd23256edf4399') in 0.014231 seconds
+  Import took 0.018408 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/DatosTiles/SpikeTile.asset
+  artifactKey: Guid(82451516049492b41ad06c96a3e3ca32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DatosTiles/SpikeTile.asset using Guid(82451516049492b41ad06c96a3e3ca32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba71e5f9aa9163599126605dc6ab5664') in 0.019368 seconds
+  Import took 0.023591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_227.asset
+  artifactKey: Guid(e1bbd24a163a29d44a26fbc844c0fe79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_227.asset using Guid(e1bbd24a163a29d44a26fbc844c0fe79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ade5b220def6d078969dd112b6989960') in 0.023076 seconds
+  Import took 0.027194 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_229.asset
+  artifactKey: Guid(b0e1b3dae164ee6469f278eb70b74e07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_229.asset using Guid(b0e1b3dae164ee6469f278eb70b74e07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5c2f0f0d2d498c972b1b133e5ec3511') in 0.019415 seconds
+  Import took 0.023360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/DatosTiles/HollowTile.asset
+  artifactKey: Guid(66394c5b1d560b34dbd72ab27f9c3df6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DatosTiles/HollowTile.asset using Guid(66394c5b1d560b34dbd72ab27f9c3df6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6daa9545b3e46099381b3dc814bd0ad') in 0.019812 seconds
+  Import took 0.024244 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_243.asset
+  artifactKey: Guid(d10d46bda53d8c84987c12ca9139e711) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_243.asset using Guid(d10d46bda53d8c84987c12ca9139e711) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79dc4ad69a7e3b7b8bc466964290ed38') in 0.018798 seconds
+  Import took 0.022696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_249.asset
+  artifactKey: Guid(8b01a1403303dc14dbef42f1fa077a82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_249.asset using Guid(8b01a1403303dc14dbef42f1fa077a82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59147be5a7e762d31bf1333094c7747a') in 0.018093 seconds
+  Import took 0.021858 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_239.asset
+  artifactKey: Guid(401f812f69a43354f85648f494a0d414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_239.asset using Guid(401f812f69a43354f85648f494a0d414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd394d92f887856cdfc1a4e5340af67a5') in 0.018460 seconds
+  Import took 0.023027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_235.asset
+  artifactKey: Guid(f2c8f7eb6ec28f741a02295305ccc2d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_235.asset using Guid(f2c8f7eb6ec28f741a02295305ccc2d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f746bc2b848bd871fda2d000a59bf56a') in 0.021777 seconds
+  Import took 0.025701 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.563550 seconds.
+  path: Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_242.controller
+  artifactKey: Guid(31d3c61cdc78ac64398a51e7056dcf40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_242.controller using Guid(31d3c61cdc78ac64398a51e7056dcf40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52b18d75fb6ccd2a4654229e356c23c3') in 0.008353 seconds
+  Import took 0.012083 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000982 seconds.
+  path: Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_242.controller
+  artifactKey: Guid(31d3c61cdc78ac64398a51e7056dcf40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_242.controller using Guid(31d3c61cdc78ac64398a51e7056dcf40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52b18d75fb6ccd2a4654229e356c23c3') in 0.004307 seconds
+  Import took 0.007954 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.309797 seconds.
+  path: Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_120.controller
+  artifactKey: Guid(71d5a353f34c97f46a22a1171c5f7e2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DatosTiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_120.controller using Guid(71d5a353f34c97f46a22a1171c5f7e2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7582318edf23d833258009b753c53995') in 0.009182 seconds
+  Import took 0.013022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.583825 seconds.
+  path: Assets/Animations/ExplosionAnimation.anim
+  artifactKey: Guid(35e4e302f871b7d468981517335867e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/ExplosionAnimation.anim using Guid(35e4e302f871b7d468981517335867e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7586e7fe82e997db6f3698ae51c7c5a') in 0.012481 seconds
+  Import took 0.017056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003455 seconds.
+  path: Assets/Animations/ExplosionAnimation.anim
+  artifactKey: Guid(35e4e302f871b7d468981517335867e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/ExplosionAnimation.anim using Guid(35e4e302f871b7d468981517335867e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7586e7fe82e997db6f3698ae51c7c5a') in 0.004285 seconds
+  Import took 0.007856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 180.674175 seconds.
+  path: Assets/Scripts/NewBehaviourScript.cs
+  artifactKey: Guid(2a55ba2cce9c4ce498955d84830fa727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NewBehaviourScript.cs using Guid(2a55ba2cce9c4ce498955d84830fa727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c600beee04d9c68fd25e18b8089b55c') in 0.012243 seconds
+  Import took 0.017385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002203 seconds.
+  path: Assets/Scripts/NewBehaviourScript.cs
+  artifactKey: Guid(2a55ba2cce9c4ce498955d84830fa727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NewBehaviourScript.cs using Guid(2a55ba2cce9c4ce498955d84830fa727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c600beee04d9c68fd25e18b8089b55c') in 0.004651 seconds
+  Import took 0.008564 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001513 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.063 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1791 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.7 MB.
+System memory in use after: 87.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2266.
+Total: 2.016000 ms (FindLiveObjects: 0.205000 ms CreateObjectMapping: 0.083600 ms MarkObjects: 1.621800 ms  DeleteObjects: 0.104500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.342093 seconds.
+  path: Assets/Scripts/Moneda.cs
+  artifactKey: Guid(693a863572c999f4481a68830c0524eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Moneda.cs using Guid(693a863572c999f4481a68830c0524eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '024dc8a59a2f2c3a6a60ccbade3bbf44') in 0.005924 seconds
+  Import took 0.009364 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001158 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.015 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1791 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.7 MB.
+System memory in use after: 87.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2269.
+Total: 2.212100 ms (FindLiveObjects: 0.203900 ms CreateObjectMapping: 0.083600 ms MarkObjects: 1.802000 ms  DeleteObjects: 0.121200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 243.230468 seconds.
+  path: Assets/Scripts/Moneda.cs
+  artifactKey: Guid(693a863572c999f4481a68830c0524eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Moneda.cs using Guid(693a863572c999f4481a68830c0524eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89a184531c4b288f52ebfaccafa4cea8') in 0.005726 seconds
+  Import took 0.009035 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001825 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.959 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1791 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.8 MB.
+System memory in use after: 87.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2272.
+Total: 2.387500 ms (FindLiveObjects: 0.262500 ms CreateObjectMapping: 0.135700 ms MarkObjects: 1.867200 ms  DeleteObjects: 0.120700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.850203 seconds.
+  path: Assets/Scripts/Moneda.cs
+  artifactKey: Guid(693a863572c999f4481a68830c0524eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Moneda.cs using Guid(693a863572c999f4481a68830c0524eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bb5f87aacf6048ad8a53ceb5b61c0de') in 0.006439 seconds
+  Import took 0.010176 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001248 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.097 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1791 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.8 MB.
+System memory in use after: 87.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2275.
+Total: 2.979300 ms (FindLiveObjects: 0.345700 ms CreateObjectMapping: 0.194700 ms MarkObjects: 2.277100 ms  DeleteObjects: 0.159900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 74.812517 seconds.
+  path: Assets/Scripts/Moneda.cs
+  artifactKey: Guid(693a863572c999f4481a68830c0524eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Moneda.cs using Guid(693a863572c999f4481a68830c0524eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bd9b5cd45e00ba3e6c5f2c88e9c6cd0') in 0.008073 seconds
+  Import took 0.012737 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.916047 seconds.
+  path: Assets/Prefabs/Moneda.prefab
+  artifactKey: Guid(8c53120c2099b804490cedae6d6de083) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Moneda.prefab using Guid(8c53120c2099b804490cedae6d6de083) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_120) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+The Animator Controller (Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_120) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+ -> (artifact id: 'b6ec486474e7c6a12cb1451b8ca8237f') in 0.106396 seconds
+  Import took 0.111142 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002901 seconds.
+  path: Assets/Prefabs/Moneda.prefab
+  artifactKey: Guid(8c53120c2099b804490cedae6d6de083) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Moneda.prefab using Guid(8c53120c2099b804490cedae6d6de083) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_120) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+The Animator Controller (Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_120) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+ -> (artifact id: 'b6ec486474e7c6a12cb1451b8ca8237f') in 0.016095 seconds
+  Import took 0.020501 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 234.218266 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d8748435867583b0bac0f9e1bec96ad') in 0.010053 seconds
+  Import took 0.014854 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.306860 seconds.
+  path: Assets/Prefabs/Moneda.prefab
+  artifactKey: Guid(8c53120c2099b804490cedae6d6de083) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Moneda.prefab using Guid(8c53120c2099b804490cedae6d6de083) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_120) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+The Animator Controller (Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_120) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+ -> (artifact id: 'e4a6d58d660cd460b44f32c01ce608c6') in 0.014567 seconds
+  Import took 0.018617 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001626 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.099 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1791 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.0 MB.
+System memory in use after: 88.0 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2284.
+Total: 2.426000 ms (FindLiveObjects: 0.303400 ms CreateObjectMapping: 0.099800 ms MarkObjects: 1.906400 ms  DeleteObjects: 0.114400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001312 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.987 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1791 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.0 MB.
+System memory in use after: 88.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2287.
+Total: 2.388400 ms (FindLiveObjects: 0.288900 ms CreateObjectMapping: 0.088300 ms MarkObjects: 1.897900 ms  DeleteObjects: 0.112000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001655 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.988 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1791 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.0 MB.
+System memory in use after: 88.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2290.
+Total: 2.667000 ms (FindLiveObjects: 0.243900 ms CreateObjectMapping: 0.121400 ms MarkObjects: 2.177900 ms  DeleteObjects: 0.122500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001581 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.109 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1792 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.0 MB.
+System memory in use after: 88.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2294.
+Total: 3.403700 ms (FindLiveObjects: 0.377400 ms CreateObjectMapping: 0.106700 ms MarkObjects: 2.698900 ms  DeleteObjects: 0.218700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 789.810387 seconds.
+  path: Assets/Scripts/Enemigo.cs
+  artifactKey: Guid(44f5363881ed1cd4d933ae68e7f81e85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Enemigo.cs using Guid(44f5363881ed1cd4d933ae68e7f81e85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b524e1579c77af526275a13f5972559d') in 0.011171 seconds
+  Import took 0.015702 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001618 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.019 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1792 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.0 MB.
+System memory in use after: 88.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2297.
+Total: 2.346500 ms (FindLiveObjects: 0.203900 ms CreateObjectMapping: 0.094400 ms MarkObjects: 1.925100 ms  DeleteObjects: 0.122300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001246 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.961 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1792 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.0 MB.
+System memory in use after: 88.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2300.
+Total: 2.256100 ms (FindLiveObjects: 0.206300 ms CreateObjectMapping: 0.077200 ms MarkObjects: 1.845300 ms  DeleteObjects: 0.126100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 163.013193 seconds.
+  path: Assets/Scripts/Enemigo.cs
+  artifactKey: Guid(44f5363881ed1cd4d933ae68e7f81e85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Enemigo.cs using Guid(44f5363881ed1cd4d933ae68e7f81e85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b09b64a763852ab7f9fe33ef8361586') in 0.005809 seconds
+  Import took 0.009411 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001752 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.989 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1792 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.1 MB.
+System memory in use after: 88.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2303.
+Total: 2.323600 ms (FindLiveObjects: 0.238600 ms CreateObjectMapping: 0.107600 ms MarkObjects: 1.862700 ms  DeleteObjects: 0.113700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.995380 seconds.
+  path: Assets/Scripts/Enemigo.cs
+  artifactKey: Guid(44f5363881ed1cd4d933ae68e7f81e85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Enemigo.cs using Guid(44f5363881ed1cd4d933ae68e7f81e85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9d9e2d43bd0ed87b71ceae0061b59c3') in 0.006965 seconds
+  Import took 0.010785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 273.334111 seconds.
+  path: Assets/FreeButtonSet/background.png
+  artifactKey: Guid(a093780a76b8e8c4c8b121e123d21a82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/background.png using Guid(a093780a76b8e8c4c8b121e123d21a82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38b74f4fc233087a71879b27f06a8d4d') in 0.171720 seconds
+  Import took 0.178337 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 57.670050 seconds.
+  path: Assets/FreeButtonSet/Textures
+  artifactKey: Guid(01430914042f894489285ea62a14b761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures using Guid(01430914042f894489285ea62a14b761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2b4670ba813bfefdc357500767bdc91') in 0.015261 seconds
+  Import took 0.025155 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.415078 seconds.
+  path: Assets/FreeButtonSet/Textures/buttons
+  artifactKey: Guid(b0edb74aa1bc1bb468ece3102f026e61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/buttons using Guid(b0edb74aa1bc1bb468ece3102f026e61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a75a97aea65d3e4070d5de91b7059d2') in 0.009650 seconds
+  Import took 0.013756 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016827 seconds.
+  path: Assets/FreeButtonSet/Textures/buttons/button_100.png
+  artifactKey: Guid(47eaa4f43430bf14f996b113a313b0cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/buttons/button_100.png using Guid(47eaa4f43430bf14f996b113a313b0cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '044cfc0921348a6f383e89484d0da485') in 0.025818 seconds
+  Import took 0.029583 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/FreeButtonSet/Textures/buttons/button_200.png
+  artifactKey: Guid(c5674c6305843a046beddbb645e3259c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/buttons/button_200.png using Guid(c5674c6305843a046beddbb645e3259c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b180a579a33c508c413086505117e64') in 0.021062 seconds
+  Import took 0.024981 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/FreeButtonSet/Textures/buttons/button_round_320.png
+  artifactKey: Guid(ed53cef80c26e89409c8c93941be088c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/buttons/button_round_320.png using Guid(ed53cef80c26e89409c8c93941be088c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17c82db4b0f5e1b46304f1e619d57542') in 0.025800 seconds
+  Import took 0.029642 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/FreeButtonSet/Textures/buttons/button_150.png
+  artifactKey: Guid(cbb5f8f07e6166b4b9b2180a807d81de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/buttons/button_150.png using Guid(cbb5f8f07e6166b4b9b2180a807d81de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4096476c1d8b47ac64231050aba07981') in 0.022811 seconds
+  Import took 0.026521 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/FreeButtonSet/Textures/buttons/button_round_130.png
+  artifactKey: Guid(0dcdf5b7debd4ba4492217e4975c965e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/buttons/button_round_130.png using Guid(0dcdf5b7debd4ba4492217e4975c965e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f117ca27659b31f05734eb5f42fd18d') in 0.026450 seconds
+  Import took 0.030189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/FreeButtonSet/Textures/buttons/button_round_220.png
+  artifactKey: Guid(9e8274c61673b8a458365832576005b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/buttons/button_round_220.png using Guid(9e8274c61673b8a458365832576005b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45187de4705809384cfc238d2f10934e') in 0.023314 seconds
+  Import took 0.028491 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/FreeButtonSet/Textures/buttons/button_round_400.png
+  artifactKey: Guid(60c4dbe9e87500a4480a6214bdc5cc87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/buttons/button_round_400.png using Guid(60c4dbe9e87500a4480a6214bdc5cc87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a26399704627e7e6cd5d2dadb8b6245e') in 0.022939 seconds
+  Import took 0.027669 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004019 seconds.
+  path: Assets/FreeButtonSet/Textures/buttons/button_round_400.png
+  artifactKey: Guid(60c4dbe9e87500a4480a6214bdc5cc87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/buttons/button_round_400.png using Guid(60c4dbe9e87500a4480a6214bdc5cc87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a26399704627e7e6cd5d2dadb8b6245e') in 0.014585 seconds
+  Import took 0.019475 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 108.086404 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(e9acffd14b63d2c4cb78aa8da1375c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(e9acffd14b63d2c4cb78aa8da1375c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c350beb0c5ecdbe03b49cdf254dcd5e9') in 0.012050 seconds
+  Import took 0.016962 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.503861 seconds.
+  path: Assets/Scenes/EscenaMenu.unity
+  artifactKey: Guid(f6777fc752c47da4eb416b8ce353e561) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/EscenaMenu.unity using Guid(f6777fc752c47da4eb416b8ce353e561) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02133c083497fe2fec27efcc23022ddc') in 0.011648 seconds
+  Import took 0.015619 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.208731 seconds.
+  path: Assets/FreeButtonSet/Fonts/Poppins-Bold.ttf
+  artifactKey: Guid(f4c99a340a6e6504aa6e992b7a253612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Fonts/Poppins-Bold.ttf using Guid(f4c99a340a6e6504aa6e992b7a253612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a06664dba5e9ba1fb186a65ff70e0533') in 0.239571 seconds
+  Import took 0.244818 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/FreeButtonSet/Fonts/Poppins-MediumItalic.ttf
+  artifactKey: Guid(d1fe0bc1ac9782f4c8f875e1a7cea6d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Fonts/Poppins-MediumItalic.ttf using Guid(d1fe0bc1ac9782f4c8f875e1a7cea6d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4146adf1b14ec41e68f1f2f2c1fee075') in 0.019396 seconds
+  Import took 0.023829 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.253454 seconds.
+  path: Assets/Brackeys/2D Mega Pack/Backgrounds
+  artifactKey: Guid(32a6e3a01c461144e9231f98f40d26e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brackeys/2D Mega Pack/Backgrounds using Guid(32a6e3a01c461144e9231f98f40d26e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cff38fa827699b9c60d09b34d1f86da7') in 0.011825 seconds
+  Import took 0.017586 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 60.787169 seconds.
+  path: Assets/Brackeys/2D Mega Pack/Backgrounds/GreenBackground.png
+  artifactKey: Guid(79dfa877bf28eca4e9f85bd1cadf6202) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brackeys/2D Mega Pack/Backgrounds/GreenBackground.png using Guid(79dfa877bf28eca4e9f85bd1cadf6202) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a6f53cd91ebee3eda6b41b147064f3e') in 0.024999 seconds
+  Import took 0.029272 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.187330 seconds.
+  path: Assets/Brackeys/2D Mega Pack/Backgrounds/GreenBackground.png
+  artifactKey: Guid(79dfa877bf28eca4e9f85bd1cadf6202) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brackeys/2D Mega Pack/Backgrounds/GreenBackground.png using Guid(79dfa877bf28eca4e9f85bd1cadf6202) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07aa5f0338cd24599de73efb25fdf9ee') in 0.030419 seconds
+  Import took 0.034394 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001486 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.159 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1793 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.5 MB.
+System memory in use after: 88.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2352.
+Total: 2.200800 ms (FindLiveObjects: 0.213600 ms CreateObjectMapping: 0.089900 ms MarkObjects: 1.786800 ms  DeleteObjects: 0.109300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 762.326251 seconds.
+  path: Assets/Scripts/Menu.cs
+  artifactKey: Guid(7d0341dd6f29a9e44a7c26c454785624) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Menu.cs using Guid(7d0341dd6f29a9e44a7c26c454785624) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f998c8950027c8c0799e3329506eb7db') in 0.009213 seconds
+  Import took 0.012505 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001591 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.318 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1793 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.5 MB.
+System memory in use after: 88.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2355.
+Total: 3.547400 ms (FindLiveObjects: 0.308400 ms CreateObjectMapping: 0.109000 ms MarkObjects: 2.966300 ms  DeleteObjects: 0.161900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001343 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.961 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1793 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.5 MB.
+System memory in use after: 88.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2358.
+Total: 6.330700 ms (FindLiveObjects: 0.620800 ms CreateObjectMapping: 0.231800 ms MarkObjects: 5.191700 ms  DeleteObjects: 0.282600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.235307 seconds.
+  path: Assets/Scripts/Menu.cs
+  artifactKey: Guid(7d0341dd6f29a9e44a7c26c454785624) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Menu.cs using Guid(7d0341dd6f29a9e44a7c26c454785624) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85f7493b44659e76f99d31c25d0412c9') in 0.010816 seconds
+  Import took 0.018996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 57.080983 seconds.
+  path: Assets/Brackeys/2D Mega Pack/Enemies/AlienSpaceship.png
+  artifactKey: Guid(a8166ea434d337349818825bff42d2f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brackeys/2D Mega Pack/Enemies/AlienSpaceship.png using Guid(a8166ea434d337349818825bff42d2f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '916deecae6667a84fcaeaf49674ab6dd') in 0.081753 seconds
+  Import took 0.085454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004918 seconds.
+  path: Assets/Brackeys/2D Mega Pack/Enemies/AlienSpaceship.png
+  artifactKey: Guid(a8166ea434d337349818825bff42d2f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brackeys/2D Mega Pack/Enemies/AlienSpaceship.png using Guid(a8166ea434d337349818825bff42d2f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '916deecae6667a84fcaeaf49674ab6dd') in 0.011789 seconds
+  Import took 0.016278 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001228 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.975 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1793 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.6 MB.
+System memory in use after: 88.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2364.
+Total: 2.822700 ms (FindLiveObjects: 0.324100 ms CreateObjectMapping: 0.120100 ms MarkObjects: 2.259300 ms  DeleteObjects: 0.118000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 319.069526 seconds.
+  path: Assets/Scenes/EscenaMapa.unity
+  artifactKey: Guid(90fc415939c28c84482049d883aeaa2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/EscenaMapa.unity using Guid(90fc415939c28c84482049d883aeaa2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13001fbba6b1a4b5b3fb9dc112446f59') in 0.019827 seconds
+  Import took 0.024254 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001566 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.956 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1793 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.6 MB.
+System memory in use after: 88.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2367.
+Total: 5.201700 ms (FindLiveObjects: 0.454800 ms CreateObjectMapping: 0.197200 ms MarkObjects: 4.278300 ms  DeleteObjects: 0.268200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001372 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.963 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1793 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.6 MB.
+System memory in use after: 88.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2370.
+Total: 2.525800 ms (FindLiveObjects: 0.221100 ms CreateObjectMapping: 0.080800 ms MarkObjects: 2.107700 ms  DeleteObjects: 0.114900 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.08 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 53.3 MB.
+System memory in use after: 53.3 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2370.
+Total: 2.640200 ms (FindLiveObjects: 0.210400 ms CreateObjectMapping: 0.091800 ms MarkObjects: 2.224000 ms  DeleteObjects: 0.112500 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
