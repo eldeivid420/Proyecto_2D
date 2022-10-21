@@ -8,21 +8,11 @@ using UnityEngine;
 */
 public class Moneda : MonoBehaviour
 {
-    //La referencia al Audio Source
-    public AudioSource efectoMoneda;
-
-    //La referencia al sistema de particulas
-    public ParticleSystem hit;
     //La moneda colisiono con otro objeto (colliders)
    private void OnTriggerEnter2D(Collider2D other){
        if (other.gameObject.CompareTag("Player"))
        {
-           //Mostrar la explosion con el sistema de particulas
-           hit.Play();
-           
            //Recolectar
-           //Reproducir un efecto de sonido
-           efectoMoneda.Play();
            //Dejar de dibujar la moneda
            GetComponent<SpriteRenderer>().enabled = false;
            //Prender la explosion
@@ -30,10 +20,6 @@ public class Moneda : MonoBehaviour
            gameObject.transform.GetChild(0).gameObject.SetActive(true);
           
            Destroy(gameObject, 0.5f);
-
-           //Contar monedas
-           SaludPersonaje.instance.monedas += 25;
-           HUD.instance.ActualizarMonedas();
        }
    }
 }
